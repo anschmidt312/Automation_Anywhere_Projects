@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+129454,"Professional Services",2017-10-13,235923,47184.6,283108,CAD
+481734,"Waste management services",2017-10-09,47538,9507.6,57045.6,RON
